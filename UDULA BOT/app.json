@@ -1,14 +1,14 @@
 {
-    "name": "Amazone Alexa V8",
-    "description": "Alexa is a chat bot for WhatsApp. Makes it easy and Working perfectly",
-    "logo": "https://telegra.ph/file/2046371f4b8e65dd4d52e.jpg",
-    "keywords": ["whatsapp", "userbot", "bot", "api", "ai", "amazone alexa"],
+    "name": "SHY QUEEN V1",
+    "description": "Shy queen is a chat bot for WhatsApp. Makes it easy and Working perfectly",
+    "logo": "https://telegra.ph/file/0afb94ce585d42e7c2c10.jpg",
+    "keywords": ["whatsapp", "userbot", "bot", "api", "ai", "SHY QUEEN"],
     "repository": "https://chat.whatsapp.com/B5i5mfIerpC6K8jf6GkM7I",
     "website":   "https://chat.whatsapp.com/B5i5mfIerpC6K8jf6GkM7I",
     "success_url": "https://chat.whatsapp.com/B5i5mfIerpC6K8jf6GkM7I",
     "stack": "container",
     "env": {
-        "NEUTRO_SESSION": {
+        "SHY_SESSION": {
             "description": "Paste your QR session.",
             "required": true
         },
@@ -19,7 +19,7 @@
         "BIO": {
             "description": "Change Your live Bio | ඔබේ About එකට අවශ්‍ය දෙයක් මෙහි ලියන්න",
             "required": false,
-            "value": "ɪ ᴀᵐ ⁿᵒᵗ ᵖᵉʳᶠᵉᶜᵗ ʙᵘᵗ ɪ  ᴀᵐ ʟⁱᵐⁱᵗᵉᵈ ᴇᵈⁱᵗⁱᵒⁿ👀🔥"
+            "value": "I am not perfect but I am limited edition"
         },
         "AUTO_STICKER": {
             "description": "If you likes Auto Sticker you can write 'true'. Otherwise false",
@@ -29,10 +29,10 @@
         "BOT_NAME": {
             "description": "give a name you disire to give your bot (for auto reply white to identify)",
             "required": false,
-            "value": "👩‍🦰©Amazone Alexa"
+            "value": "SHY QUEEN"
         },
-        "FULL_ALEXA": {
-            "description": "Activate alexa chat bot",
+        "FULL_SHY": {
+            "description": "Activate SHY chat bot",
             "required": false,
             "value": "false"
         },
@@ -87,7 +87,7 @@
         "CAPTIONS": {
             "description": "Set your caption under medias.",
             "required": true,
-            "value": "Made By 👩‍🦰Amazone Alexa"
+            "value": "Made By Shy QUEEN"
         },
         "MUTE_MESSAGE": {
             "description": "Message received when mute a group. If you do not want to change this message, type default.",
@@ -167,7 +167,7 @@
         "PANEL_COMMAND": {
             "description": "Customizeable commands list request command. Keep alexa if you don't want to change.",
             "required": true,
-            "value": "alexa"
+            "value": "SHY"
         },
         "REMOVE_BG_API_KEY": {
             "description": "Here you go to the website remove.bg and sign up and get an API key. Leave the API key in this space.",
