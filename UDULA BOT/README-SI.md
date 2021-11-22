@@ -12,7 +12,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Amazone+Alexa&font=Fira%20Code&center=true&width=380&height=50">
 </p>
 </a>
-Project of  🧚Amazone - Makes it easy and fun to use Whatsapp. Also first Made in sri lanka userbot for Whatsapp.
+Project of  🧚SHY QUEEN - Makes it easy and fun to use Whatsapp. Also first Made in sri lanka userbot for Whatsapp.
 
 <a href="https://chat.whatsapp.com/GTgqgMTo7FoJ1GqdijshsX">Support Group</a> |
         <a href="https://Wa.me/+94766598862">ChethanaBro Whatsapp </a> |
